@@ -24,6 +24,10 @@ p {
     width: 100%;
 }
 
+span {
+    color: #f53624;
+}
+
 .custom-logo-footer {
     width: 65%;
     display: block;
